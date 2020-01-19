@@ -10,7 +10,7 @@ import Relations from './pages/Relations'
 import Contact from './pages/Contact'
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/becker">
       <Switch>
         <Route exact path='/' component={Colony} />
         <Route exact path='/historia' component={History} />
