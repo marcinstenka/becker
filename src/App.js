@@ -12,7 +12,7 @@ function App() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route exact path='/' component={Colony} />
+        <Route exact path='/becker' component={Colony} />
         <Route exact path='/historia' component={History} />
         <Route exact path='/oferta' component={Offer} />
         <Route exact path='/zespol' component={Team} />
