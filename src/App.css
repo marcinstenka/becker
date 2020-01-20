@@ -142,13 +142,14 @@ nav{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin: -23px 0 0 0;
 }
 .mobile-menu__links a{
   color: black;
   text-align: justify;
   text-decoration: none;
   font-size: 25px;
-  margin: 20px 0;
+  margin: 15px 0;
   transition: color 0.5s;
 }
 .mobile-menu__links a:hover{
@@ -185,7 +186,7 @@ nav{
 }
 .hero__headerSmall{
   font-size: 22px;
-  top: 76%;
+  top: 77.5%;
   left: 6%;
   font-weight: normal;
 }
@@ -219,11 +220,7 @@ nav{
   font-size: 18px;
   margin: 30px 0 0 0;
 }
-.footer-bottom{
-  position: absolute;
-  bottom: 0;
-  z-index: -1;
-}
+
 /* Offer */
 .offer{
   margin: 100px 0 0 0;
@@ -360,7 +357,13 @@ nav{
     bottom: 0;
   }
 }
-
+@media (min-height: 710px) {
+  .footer-bottom{
+    position: absolute;
+    bottom: 0;
+    z-index: -1;
+  }
+}
 @media (max-width: 670px){
   .hero__p:nth-of-type(1){
     width: 223px;
