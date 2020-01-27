@@ -10,7 +10,7 @@ const MenuDesktop = ({ isHero }) => {
                 <li><Link className='menu-link' to='/oferta'>OFERTA</Link></li>
                 <li><Link className='menu-link' to='/zespol'>ZESPÓŁ</Link></li>
                 <li><Link className='menu-link' to='/rekomendacje'>REKOMENDACJE</Link></li>
-                <li><Link className='menu-link' to='/relacje'>RELACJE</Link></li>
+                <li><a className='menu-link' href='//wp.pl'>BLOG</a></li>
                 <li><Link className='menu-link' to='/kontakt'>KONTAKT</Link></li>
             </ul>
         </div>

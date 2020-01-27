@@ -6,7 +6,6 @@ import History from './pages/History.js'
 import Offer from './pages/Offer'
 import Team from './pages/Team'
 import Recomendations from './pages/Recomendations.js'
-import Relations from './pages/Relations'
 import Contact from './pages/Contact'
 function App() {
   return (
@@ -17,7 +16,6 @@ function App() {
         <Route exact path='/oferta' component={Offer} />
         <Route exact path='/zespol' component={Team} />
         <Route exact path='/rekomendacje' component={Recomendations} />
-        <Route exact path='/relacje' component={Relations} />
         <Route exact path='/kontakt' component={Contact} />
       </Switch>
     </BrowserRouter>

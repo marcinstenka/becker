@@ -194,6 +194,33 @@ nav{
 .hero__p{
   display: none;
 }
+.iconContainer {
+  position: fixed;
+  right: 0;
+  top: 250px;
+}
+.fbIcon, .igIcon{
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fbIcon img, .igIcon img{
+  width: 70%;
+  transition: 0.2s transform;
+
+}
+.fbIcon{
+  background:#3b5998;
+}
+.igIcon{
+  background: #C13584;
+  margin: 10px 0 0 0;
+}
+.fbIcon:hover img, .igIcon:hover img{
+  transform: rotate(7deg);
+}
 .about__header{
   margin: 70px 0 0 30px;
 }
@@ -271,10 +298,10 @@ nav{
 /* Contact */
 .contact{
   margin: 100px 0 0 0;
+  min-height: 100vh;
 }
 .contact__text{
   margin:20px 30px 0 30px;
-  padding: 0 0 225px 0;
 }
 .contact__p{
   margin: 20px 0;
@@ -283,6 +310,34 @@ nav{
 }
 .contact__img{
   width: 100%;
+}
+.contact__icons{
+  width: 150px;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.contact__FB, .contact__IG{
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.2s border-radius;
+}
+.contact__FB:hover, .contact__IG:hover{
+  border-radius: 10px;
+}
+.contact__FB img, .contact__IG img{
+  width: 70%;
+}
+.contact__FB{
+  background: #3b5998;
+}
+.contact__IG{
+  background: #C13584;
 }
 /* Recomendations */
 .recomendations{

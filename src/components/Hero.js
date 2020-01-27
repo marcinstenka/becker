@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import HeroMobile from '../assets/img/heroMobile.jpg'
 import HeroDesktop from '../assets/img/heroDesktop.jpg'
-
 const Hero = () => {
     const [windowWidth, setWindowWidth ] = useState(window.innerWidth);
     const imageUrl = windowWidth >= 768 ? HeroDesktop : HeroMobile;
