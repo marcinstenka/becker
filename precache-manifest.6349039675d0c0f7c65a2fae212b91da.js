@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c1b91ee1dc46ed5d15828ccd11d316f",
+    "revision": "d577283341c0e6323bef4041516ff244",
     "url": "/becker/index.html"
   },
   {
-    "revision": "7a23e53b7bfb1dabf43c",
-    "url": "/becker/static/css/main.685988a2.chunk.css"
+    "revision": "c19db1d74a3ef121eff9",
+    "url": "/becker/static/css/main.c041f246.chunk.css"
   },
   {
-    "revision": "9181c9e342c6b6177c71",
-    "url": "/becker/static/js/2.796f6177.chunk.js"
+    "revision": "1a5541f2d1a547e8ea4e",
+    "url": "/becker/static/js/2.95b05a2c.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/becker/static/js/2.796f6177.chunk.js.LICENSE"
+    "url": "/becker/static/js/2.95b05a2c.chunk.js.LICENSE"
   },
   {
-    "revision": "7a23e53b7bfb1dabf43c",
-    "url": "/becker/static/js/main.8ee381bc.chunk.js"
+    "revision": "c19db1d74a3ef121eff9",
+    "url": "/becker/static/js/main.ef5d2ac4.chunk.js"
   },
   {
     "revision": "08fa701fdf9d1737022b",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d3edf94233665c65794fb2a588ca3398",
     "url": "/becker/static/media/heroMobile.d3edf942.jpg"
+  },
+  {
+    "revision": "30fa0886f8b6840a53f5deb91f9722f5",
+    "url": "/becker/static/media/ig.30fa0886.png"
   },
   {
     "revision": "ab0e575ece9015df2981920421dfd180",
