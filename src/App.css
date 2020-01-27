@@ -566,6 +566,7 @@ nav{
     display: flex;
     flex-direction: row-reverse;
     max-width: 919px;
+    min-height: none;
   }
   .contact__img{
     width: 600px;
