@@ -138,6 +138,9 @@ nav{
   height: 150px;
   margin: 20px 0 0 0;
 }
+.logo{
+  width: 145px;
+}
 .mobile-menu__links{
   display: flex;
   flex-direction: column;
@@ -294,6 +297,12 @@ nav{
 .team__imgs{
   display: flex;
   flex-direction: column;
+}
+.team__img{
+  width: 316px;
+}
+.team__img img{
+  width: 100%;
 }
 /* Contact */
 .contact{
@@ -566,7 +575,7 @@ nav{
     display: flex;
     flex-direction: row-reverse;
     max-width: 919px;
-    min-height: none;
+    min-height: initial;
   }
   .contact__img{
     width: 600px;
