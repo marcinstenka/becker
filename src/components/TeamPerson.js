@@ -22,6 +22,7 @@ import WMimg3 from '../assets/img/wm3.jpg'
 
 import CZ1img from '../assets/img/cz1.jpg'
 import CZ2img from '../assets/img/cz2.jpg'
+import CZ3img from '../assets/img/cz3.jpg'
 
 const TeamPerson = () => {
     const teamPersons = [
@@ -64,7 +65,7 @@ const TeamPerson = () => {
             name: 'Cały zespół',
             img1: CZ1img,
             img2: CZ2img,
-            img3: null,
+            img3: CZ3img,
             text: ''
         }
     ];

@@ -138,9 +138,7 @@ nav{
   height: 150px;
   margin: 20px 0 0 0;
 }
-.logo{
-  width: 145px;
-}
+
 .mobile-menu__links{
   display: flex;
   flex-direction: column;
@@ -300,6 +298,7 @@ nav{
 }
 .team__img{
   width: 316px;
+  height: 316px;
 }
 .team__img img{
   width: 100%;
