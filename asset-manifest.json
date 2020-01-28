@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/becker/static/css/main.66837e9e.chunk.css",
-    "main.js": "/becker/static/js/main.08740215.chunk.js",
-    "main.js.map": "/becker/static/js/main.08740215.chunk.js.map",
+    "main.css": "/becker/static/css/main.8e6f86be.chunk.css",
+    "main.js": "/becker/static/js/main.05adaa33.chunk.js",
+    "main.js.map": "/becker/static/js/main.05adaa33.chunk.js.map",
     "runtime-main.js": "/becker/static/js/runtime-main.c9236338.js",
     "runtime-main.js.map": "/becker/static/js/runtime-main.c9236338.js.map",
-    "static/js/2.95b05a2c.chunk.js": "/becker/static/js/2.95b05a2c.chunk.js",
-    "static/js/2.95b05a2c.chunk.js.map": "/becker/static/js/2.95b05a2c.chunk.js.map",
+    "static/js/2.24db35a9.chunk.js": "/becker/static/js/2.24db35a9.chunk.js",
+    "static/js/2.24db35a9.chunk.js.map": "/becker/static/js/2.24db35a9.chunk.js.map",
     "index.html": "/becker/index.html",
-    "precache-manifest.68ee93966a9782e40ef646d9689659a8.js": "/becker/precache-manifest.68ee93966a9782e40ef646d9689659a8.js",
+    "precache-manifest.d816708f612ea6acc57e5bccb8286d4c.js": "/becker/precache-manifest.d816708f612ea6acc57e5bccb8286d4c.js",
     "service-worker.js": "/becker/service-worker.js",
-    "static/css/main.66837e9e.chunk.css.map": "/becker/static/css/main.66837e9e.chunk.css.map",
-    "static/js/2.95b05a2c.chunk.js.LICENSE": "/becker/static/js/2.95b05a2c.chunk.js.LICENSE",
+    "static/css/main.8e6f86be.chunk.css.map": "/becker/static/css/main.8e6f86be.chunk.css.map",
+    "static/js/2.24db35a9.chunk.js.LICENSE": "/becker/static/js/2.24db35a9.chunk.js.LICENSE",
     "static/media/as1.jpg": "/becker/static/media/as1.73dd49bb.jpg",
     "static/media/as2.jpg": "/becker/static/media/as2.9e8d37f0.jpg",
     "static/media/as3.jpg": "/becker/static/media/as3.b4af4f07.jpg",
@@ -21,7 +21,8 @@
     "static/media/bp2.jpg": "/becker/static/media/bp2.4d58b382.jpg",
     "static/media/bp3.jpg": "/becker/static/media/bp3.c3477d16.jpg",
     "static/media/cz1.jpg": "/becker/static/media/cz1.2f2bf7fe.jpg",
-    "static/media/cz2.jpg": "/becker/static/media/cz2.29c0b160.jpg",
+    "static/media/cz2.jpg": "/becker/static/media/cz2.15ad70e8.jpg",
+    "static/media/cz3.jpg": "/becker/static/media/cz3.29c0b160.jpg",
     "static/media/heroDesktop.jpg": "/becker/static/media/heroDesktop.909ae43d.jpg",
     "static/media/heroMobile.jpg": "/becker/static/media/heroMobile.d3edf942.jpg",
     "static/media/ig.png": "/becker/static/media/ig.30fa0886.png",
@@ -44,8 +45,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c9236338.js",
-    "static/js/2.95b05a2c.chunk.js",
-    "static/css/main.66837e9e.chunk.css",
-    "static/js/main.08740215.chunk.js"
+    "static/js/2.24db35a9.chunk.js",
+    "static/css/main.8e6f86be.chunk.css",
+    "static/js/main.05adaa33.chunk.js"
   ]
 }
