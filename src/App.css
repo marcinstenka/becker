@@ -611,7 +611,7 @@ table{
 }
 .recomendations__section{
   width: 100%;
-  height: 200px;
+  min-height: 525px;
   font-size: 20px;
   text-align: center;
   position: relative;
@@ -839,16 +839,16 @@ table{
     margin: 0 auto;
   }
   .recomendations__section{
-    width: 465px;
-    height: 240px;
+    width: 865px;
+    height: 440px;
     background: var(--green) !important;
     color: white !important;
   }
   .recomendations__section:nth-of-type(odd){
-    margin: 0 525px 30px 0;
+    margin: 0 225px 130px 0;
   }
   .recomendations__section:nth-of-type(even){
-    margin: 0 0 30px 525px;
+    margin: 0 0 130px 225px;
   }
   .section__text{
     font-size: 24px;

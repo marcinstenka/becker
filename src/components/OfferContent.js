@@ -8,17 +8,6 @@ import img5ICON from '../assets/img/offer/icon/5.jpg'
 import img6ICON from '../assets/img/offer/icon/6.jpg'
 import img7ICON from '../assets/img/offer/icon/7.jpg'
 import img8ICON from '../assets/img/offer/icon/8.jpg'
-import img9ICON from '../assets/img/offer/icon/9.jpg'
-import img10ICON from '../assets/img/offer/icon/10.jpg'
-import img11ICON from '../assets/img/offer/icon/11.jpg'
-import img12ICON from '../assets/img/offer/icon/12.jpg'
-import img13ICON from '../assets/img/offer/icon/13.jpg'
-import img14ICON from '../assets/img/offer/icon/14.jpg'
-import img15ICON from '../assets/img/offer/icon/15.jpg'
-import img16ICON from '../assets/img/offer/icon/16.jpg'
-import img17ICON from '../assets/img/offer/icon/17.jpg'
-import img18ICON from '../assets/img/offer/icon/18.jpg'
-import img19ICON from '../assets/img/offer/icon/19.jpg'
 import img1FULL from '../assets/img/offer/full/1.jpg'
 import img2FULL from '../assets/img/offer/full/2.jpg'
 import img3FULL from '../assets/img/offer/full/3.jpg'
@@ -27,17 +16,6 @@ import img5FULL from '../assets/img/offer/full/5.jpg'
 import img6FULL from '../assets/img/offer/full/6.jpg'
 import img7FULL from '../assets/img/offer/full/7.jpg'
 import img8FULL from '../assets/img/offer/full/8.jpg'
-import img9FULL from '../assets/img/offer/full/9.jpg'
-import img10FULL from '../assets/img/offer/full/10.jpg'
-import img11FULL from '../assets/img/offer/full/11.jpg'
-import img12FULL from '../assets/img/offer/full/12.jpg'
-import img13FULL from '../assets/img/offer/full/13.jpg'
-import img14FULL from '../assets/img/offer/full/14.jpg'
-import img15FULL from '../assets/img/offer/full/15.jpg'
-import img16FULL from '../assets/img/offer/full/16.jpg'
-import img17FULL from '../assets/img/offer/full/17.jpg'
-import img18FULL from '../assets/img/offer/full/18.jpg'
-import img19FULL from '../assets/img/offer/full/19.jpg'
 import { developed } from '../main'
 
 import Gallery from 'react-grid-gallery';
@@ -49,6 +27,7 @@ const OfferContent = () => {
         thumbnailWidth: 250,
         thumbnailHeight: 250,
 },
+
 {
         src: img2FULL,
         thumbnail: img2ICON,
@@ -88,72 +67,6 @@ const OfferContent = () => {
 {
         src: img8FULL,
         thumbnail: img8ICON,
-        thumbnailWidth: 250,
-        thumbnailHeight: 250,
-},
-{
-        src: img9FULL,
-        thumbnail: img9ICON,
-        thumbnailWidth: 250,
-        thumbnailHeight: 250,
-},
-{
-        src: img10FULL,
-        thumbnail: img10ICON,
-        thumbnailWidth: 250,
-        thumbnailHeight: 250,
-},
-{
-        src: img11FULL,
-        thumbnail: img11ICON,
-        thumbnailWidth: 250,
-        thumbnailHeight: 250,
-},
-{
-        src: img12FULL,
-        thumbnail: img12ICON,
-        thumbnailWidth: 250,
-        thumbnailHeight: 250,
-},
-{
-        src: img13FULL,
-        thumbnail: img13ICON,
-        thumbnailWidth: 250,
-        thumbnailHeight: 250,
-},
-{
-        src: img14FULL,
-        thumbnail: img14ICON,
-        thumbnailWidth: 250,
-        thumbnailHeight: 250,
-},
-{
-        src: img15FULL,
-        thumbnail: img15ICON,
-        thumbnailWidth: 250,
-        thumbnailHeight: 250,
-},
-{
-        src: img16FULL,
-        thumbnail: img16ICON,
-        thumbnailWidth: 250,
-        thumbnailHeight: 250,
-},
-{
-        src: img17FULL,
-        thumbnail: img17ICON,
-        thumbnailWidth: 250,
-        thumbnailHeight: 250,
-},
-{
-        src: img18FULL,
-        thumbnail: img18ICON,
-        thumbnailWidth: 250,
-        thumbnailHeight: 250,
-},
-{
-        src: img19FULL,
-        thumbnail: img19ICON,
         thumbnailWidth: 250,
         thumbnailHeight: 250,
 }]
@@ -315,11 +228,11 @@ const OfferContent = () => {
                         <div className="offer__title">Miejsce</div>
                         <div className="offer__text">
                             Załakowo to niewielka wieś kaszubska w północnej Polsce. Miejscowość leży w województwie pomorskim w pobliżu Lęborka i Sierakowic. Właśnie w Załakowie, powstało Centrum wypoczynkowe „Na Gwizdówce”. Położenie z dala od zabudowań mieszkalnych sprawia, że uczestnicy mogą liczyć na ciszę, spokój i wypoczynek. Bliskość jeziora jest prawdziwym atutem tego miejsca. Kompleks wypoczynkowy powstał w 2014 roku i wykonany został z najwyższą starannością i dbałością o szczegóły. Otoczenie obiektu dopasowane jest do leśnego krajobrazu okolic jeziora Świętego. Uczestnicy obozu zostaną zakwaterowani w hotelu. Zajęcia odbywać się będą w budynku obok kompleksu hotelowego. 
-                            <br></br><a href='http://www.gwizdowka.pl/'>http://www.gwizdowka.pl/</a> 
+                            <br></br><a href='http://www.gwizdowka.pl/'>http://www.gwizdowka.pl/</a>
 
                         </div>
                         <div className="offer__gallery">
-                        <Gallery images={IMAGES} rowHeight={200} margin={0} enableImageSelection={false} />
+                            <Gallery images={IMAGES} rowHeight={200} margin={0} enableImageSelection={false} />
                         </div>
                     </div>
 
