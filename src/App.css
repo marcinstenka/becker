@@ -611,10 +611,13 @@ table{
 }
 .recomendations__section{
   width: 100%;
-  min-height: 525px;
+  padding: 70px 00px;
   font-size: 20px;
   text-align: center;
   position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .recomendations__section:nth-of-type(odd){
   background: var(--green);
@@ -623,13 +626,7 @@ table{
 .recomendations__section:last-of-type{
   margin: 0 0 80px 0;
 }
-.section__text{
-  position: absolute;
-  width: 90%;
-  top:50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-}
+
 .recomendations__img{
   width: 100%;
 }
@@ -839,16 +836,15 @@ table{
     margin: 0 auto;
   }
   .recomendations__section{
-    width: 865px;
-    height: 440px;
+    max-width: 545px;
     background: var(--green) !important;
     color: white !important;
   }
   .recomendations__section:nth-of-type(odd){
-    margin: 0 225px 130px 0;
+    margin: 0 575px 100px 0;
   }
   .recomendations__section:nth-of-type(even){
-    margin: 0 0 130px 225px;
+    margin: 0 0 100px 575px;
   }
   .section__text{
     font-size: 24px;
