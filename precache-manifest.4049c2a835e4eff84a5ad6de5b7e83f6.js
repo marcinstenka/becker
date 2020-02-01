@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7084549900fb21e94d692ccc3830a6d9",
+    "revision": "a6382e7dea5e904a0da48f1c9202f7ca",
     "url": "/becker/index.html"
   },
   {
-    "revision": "658654b094ecb14f3e7f",
-    "url": "/becker/static/css/main.71f7ae32.chunk.css"
+    "revision": "c2ce6c63450ef6492483",
+    "url": "/becker/static/css/main.9ae48a4f.chunk.css"
   },
   {
-    "revision": "06b4a205af3032467770",
-    "url": "/becker/static/js/2.e33ff8ef.chunk.js"
+    "revision": "734cd8523e44bc1d1016",
+    "url": "/becker/static/js/2.c70fc220.chunk.js"
   },
   {
     "revision": "7b3d0af122369620b24ce36f4c2ed29d",
-    "url": "/becker/static/js/2.e33ff8ef.chunk.js.LICENSE"
+    "url": "/becker/static/js/2.c70fc220.chunk.js.LICENSE"
   },
   {
-    "revision": "658654b094ecb14f3e7f",
-    "url": "/becker/static/js/main.cb0fb930.chunk.js"
+    "revision": "c2ce6c63450ef6492483",
+    "url": "/becker/static/js/main.c0afb520.chunk.js"
   },
   {
     "revision": "08fa701fdf9d1737022b",
@@ -33,127 +33,47 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "7306701cd453278dc00a4284b8e212e8",
-    "url": "/becker/static/media/10.7306701c.jpg"
-  },
-  {
-    "revision": "faee968aded6e47582f598f0025ca919",
-    "url": "/becker/static/media/10.faee968a.jpg"
-  },
-  {
-    "revision": "4768949ae78e97829c755e6d56c42db7",
-    "url": "/becker/static/media/11.4768949a.jpg"
-  },
-  {
-    "revision": "d39966711a6fbc76a864643471216270",
-    "url": "/becker/static/media/11.d3996671.jpg"
-  },
-  {
-    "revision": "7c0ee7b167ff92337bb304543c4d7b5a",
-    "url": "/becker/static/media/12.7c0ee7b1.jpg"
-  },
-  {
-    "revision": "eeca3225fde3a4ab29dd54e21c6d133c",
-    "url": "/becker/static/media/12.eeca3225.jpg"
-  },
-  {
-    "revision": "04bfb1b05d140504a7fccba87e520cab",
-    "url": "/becker/static/media/13.04bfb1b0.jpg"
-  },
-  {
-    "revision": "14b9e0c5a5db9cf1f2d528e32134818e",
-    "url": "/becker/static/media/13.14b9e0c5.jpg"
-  },
-  {
-    "revision": "db97dc6d8d5c05a599baeebbe60a3dfb",
-    "url": "/becker/static/media/14.db97dc6d.jpg"
-  },
-  {
-    "revision": "f9d75a75d89885fa364c8959a039f322",
-    "url": "/becker/static/media/14.f9d75a75.jpg"
-  },
-  {
-    "revision": "5b2b549bba3ca768875c7cf0093f6f30",
-    "url": "/becker/static/media/15.5b2b549b.jpg"
-  },
-  {
-    "revision": "d7ef5b873caec16b899e8008196ecaf5",
-    "url": "/becker/static/media/15.d7ef5b87.jpg"
-  },
-  {
-    "revision": "8694871fda4d547c26890479119e815b",
-    "url": "/becker/static/media/16.8694871f.jpg"
-  },
-  {
-    "revision": "9f4876183d44f1aa193c80f32a124a03",
-    "url": "/becker/static/media/16.9f487618.jpg"
-  },
-  {
-    "revision": "0d0d9cbf73a64148058a4662ea5e4976",
-    "url": "/becker/static/media/17.0d0d9cbf.jpg"
-  },
-  {
-    "revision": "ee5cde9f2df2f127b9f84151130320d6",
-    "url": "/becker/static/media/17.ee5cde9f.jpg"
-  },
-  {
-    "revision": "55e8198df17f452a921e5abeef40f0b8",
-    "url": "/becker/static/media/18.55e8198d.jpg"
-  },
-  {
-    "revision": "c9bc24f498fb8190cfedbd756e15facf",
-    "url": "/becker/static/media/18.c9bc24f4.jpg"
-  },
-  {
-    "revision": "0fa27061305a9587c1975a046791f9f6",
-    "url": "/becker/static/media/19.0fa27061.jpg"
-  },
-  {
-    "revision": "87650238b6bb5b4b8e0d95af0cf76c05",
-    "url": "/becker/static/media/19.87650238.jpg"
+    "url": "/becker/static/media/2.7306701c.jpg"
   },
   {
     "revision": "ac02c088fbae52b1ae478290dbfcaff8",
     "url": "/becker/static/media/2.ac02c088.jpg"
   },
   {
-    "revision": "fd9c506055173e5ee23dfe6afc1060a6",
-    "url": "/becker/static/media/2.fd9c5060.jpg"
-  },
-  {
     "revision": "6edbc771cf51c17af9f8530edb398383",
     "url": "/becker/static/media/3.6edbc771.jpg"
   },
   {
-    "revision": "8748a8480a2650f1ac32d31c9998b53c",
-    "url": "/becker/static/media/3.8748a848.jpg"
-  },
-  {
-    "revision": "1b7a539fcee1c8f740c7467d6e01ef7f",
-    "url": "/becker/static/media/4.1b7a539f.jpg"
+    "revision": "97d1b510faf6c25b9b266ba325ea8a7b",
+    "url": "/becker/static/media/3.97d1b510.jpg"
   },
   {
     "revision": "295cc32d5801a2fb2b707a32b382b159",
     "url": "/becker/static/media/4.295cc32d.jpg"
   },
   {
+    "revision": "8748a8480a2650f1ac32d31c9998b53c",
+    "url": "/becker/static/media/4.8748a848.jpg"
+  },
+  {
     "revision": "18abc1fb3f19b35724f2fbff5de4d14b",
     "url": "/becker/static/media/5.18abc1fb.jpg"
   },
   {
-    "revision": "ac30de689c4c57dc2b4bc70e1e41ec84",
-    "url": "/becker/static/media/5.ac30de68.jpg"
+    "revision": "db97dc6d8d5c05a599baeebbe60a3dfb",
+    "url": "/becker/static/media/5.db97dc6d.jpg"
   },
   {
     "revision": "59c12253fc8db79e59e008179ab5de0e",
     "url": "/becker/static/media/6.59c12253.jpg"
   },
   {
-    "revision": "97d1b510faf6c25b9b266ba325ea8a7b",
-    "url": "/becker/static/media/6.97d1b510.jpg"
+    "revision": "d7ef5b873caec16b899e8008196ecaf5",
+    "url": "/becker/static/media/6.d7ef5b87.jpg"
   },
   {
-    "revision": "32460e06e897546de0e00eadb0ef7b1e",
-    "url": "/becker/static/media/7.32460e06.jpg"
+    "revision": "8694871fda4d547c26890479119e815b",
+    "url": "/becker/static/media/7.8694871f.jpg"
   },
   {
     "revision": "cf1b3c92c6b8793ee2ab214c2194d5cc",
@@ -164,16 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/becker/static/media/8.26250190.jpg"
   },
   {
-    "revision": "4da315086e34cc9456913ee53644eb16",
-    "url": "/becker/static/media/8.4da31508.jpg"
-  },
-  {
-    "revision": "6c5e10474fb783ad0b71d1a8aebc04d1",
-    "url": "/becker/static/media/9.6c5e1047.jpg"
-  },
-  {
-    "revision": "cfc4b30a57123964126362e85eed053a",
-    "url": "/becker/static/media/9.cfc4b30a.jpg"
+    "revision": "87650238b6bb5b4b8e0d95af0cf76c05",
+    "url": "/becker/static/media/8.87650238.jpg"
   },
   {
     "revision": "73dd49bb02b634be8b24cff218be68e5",
