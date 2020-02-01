@@ -242,18 +242,18 @@ const OfferContent = () => {
                                 <div className="line__upArrow"></div>
                                 <div className="line__downArrow"></div>
                                 <div className="day-schedule__dot dot1"></div>
-                            <div className="day-schedule__dot dot2"></div>
-                            <div className="day-schedule__dot dot3"></div>
-                            <div className="day-schedule__dot dot4"></div>
-                            <div className="day-schedule__dot dot5"></div>
-                            <div className="day-schedule__dot dot6"></div>
-                            <div className="day-schedule__dot dot7"></div>
-                            <div className="day-schedule__dot dot8"></div>
-                            <div className="day-schedule__dot dot9"></div>
-                            <div className="day-schedule__dot dot10"></div>
-                            <div className="day-schedule__dot dot11"></div>
-                            <div className="day-schedule__dot dot12"></div>
-                            <div className="day-schedule__dot dot13"></div>
+                                <div className="day-schedule__dot dot2"></div>
+                                <div className="day-schedule__dot dot3"></div>
+                                <div className="day-schedule__dot dot4"></div>
+                                <div className="day-schedule__dot dot5"></div>
+                                <div className="day-schedule__dot dot6"></div>
+                                <div className="day-schedule__dot dot7"></div>
+                                <div className="day-schedule__dot dot8"></div>
+                                <div className="day-schedule__dot dot9"></div>
+                                <div className="day-schedule__dot dot10"></div>
+                                <div className="day-schedule__dot dot11"></div>
+                                <div className="day-schedule__dot dot12"></div>
+                                <div className="day-schedule__dot dot13"></div>
                             </div>
                             
                         </div>
