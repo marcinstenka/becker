@@ -630,7 +630,9 @@ table{
 .recomendations__section:last-of-type{
   margin: 0 0 80px 0;
 }
-
+.section__text{
+  margin: 0 20px;
+}
 .recomendations__img{
   width: 100%;
 }
