@@ -338,7 +338,7 @@ const HisotryContent = () => {
                 <p className="thanks__p">W związku z likwidacją gimnazjów program „ Wyobraźnia ważniejsza od wiedzy ” zostaje zamknięty. Tak kończy się jedna historia a rozpoczyna druga. </p>
             </div>
             <div className="history__thanks">
-                <p className="thanks__list">
+                <div className="thanks__list">
                     <ul><b>Chcielibyśmy serdecznie podziękować:</b>
                         <li className="thanks__list-item"><b>1.</b> Pracownikom WMFiI UG: dr Joannie Gondek,  dr Barbarze Wolnik, prof. UG dr hab. Antoniemu Augustynowiczowi, dr Jackowi Gulgowskiemu, mgr Nikodemowi Ponikwickiemu, prof. UM dr hab. Bogusławowi Pranszke</li>
                         <li className="thanks__list-item"><b>2.</b> Nauczycielom LO III w Gdyni: mgr Marcie Mąkosa, mgr Elżbiecie Koziróg, dr Adamowi Dzedzej</li>
@@ -347,7 +347,7 @@ const HisotryContent = () => {
                         <li className="thanks__list-item"><b>5.</b> mgr Wojciechowi Malickiemu z obecnej Szkoły Podstawowej nr 7 w Lęborku</li>
                         <li className="thanks__list-item"><b>6.</b> Nauczycielom dawnego Gimnazjum nr 1 w Lęborku: twórcy projektu inż. Andrzejowi Płocharskiemu, mgr Ali Mańkowskiej, mgr Małgorzacie Poziemskiej, mgr Mateuszowi Ziarkowskiemu, mgr Lucynie Racis oraz śp. mgr Sebastianowi Guderskiemu za ogromną pomoc i zaangażowanie w realizacji programu.</li>
                     </ul>
-                </p>
+                </div>
             </div>
             <div className="history__thanks">
                 <p className="thanks__p">Dziękujemy Panu Markowi Kubiakowi Prezesowi PPD „ POLTAREX ” Sp. z o.o., Panu Maciejowi Babij Prezesowi PPH AMG Sp. z o.o., Panu Dariuszowi Karaś Prezesowi MEYN Polska Sp. z o.o., firmie WIFOT Lębork za ogromną pomoc i wsparcie w organizacji obozów letnich i zimowych.</p>
