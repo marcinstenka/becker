@@ -18,6 +18,7 @@ const MenuMobile = () => {
                 <Link to='/zespol'>ZESPÓŁ</Link>
                 <Link to='/rekomendacje'>REKOMENDACJE</Link>
                 <a href='//wp.pl'>BLOG</a>
+                <Link to='/regulamin'>REGULAMIN</Link>
                 <Link to='/kontakt'>KONTAKT</Link>
             </div>
         </div>

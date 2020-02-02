@@ -621,6 +621,7 @@ table{
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
 .recomendations__section:nth-of-type(odd){
   background: var(--green);
@@ -632,6 +633,12 @@ table{
 
 .recomendations__img{
   width: 100%;
+}
+.section__text{
+  margin: 0 20px;
+}
+.section__author{
+  font-weight: bold;
 }
 .quote{
   position: absolute;
