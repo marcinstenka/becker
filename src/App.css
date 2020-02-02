@@ -258,7 +258,7 @@ nav{
 .offer{
   margin: 150px 0 0 0;
 }
-.developed__title{
+.expanded__title{
   font-size: 22px;
 }
 .active .title__border{
@@ -269,12 +269,12 @@ nav{
   border-top: none;
   border-bottom: 1px gray solid;
 }
-.offer__developed{
+.offer__expanded{
   position: relative;
   max-width: 1050px;
   margin: 0 auto;
 }
-.developed__cross{
+.expanded__cross{
   position: absolute;
   width: 20px;
   height: 20px;
@@ -282,7 +282,7 @@ nav{
   padding: 20px;
   top: 9px;
 }
-.developed__cross::before, .developed__cross::after{
+.expanded__cross::before, .expanded__cross::after{
   content: '';
   width: 4px;
   height: 20px;
@@ -291,36 +291,35 @@ nav{
   top: 10px;
 }
 
-.active .developed__cross::before, .active .developed__cross::after{
+.active .expanded__cross::before, .active .expanded__cross::after{
   background: var(--green);
 }
-.developed__cross::after{
+.expanded__cross::after{
   transform: rotate(90deg);
 }
-.active .developed__cross::before{
+.active .expanded__cross::before{
   display: none;
 }
-.developed__title{
+.expanded__title{
   padding: 15px 0 15px 35px;
   color: white;
   font-weight: bold;
   background: var(--green);
 }
-.active .developed__title{
+.active .expanded__title{
     border-bottom: 1px solid var(--green);
     border-top: 1px solid var(--green);
     color: var(--green);
     background: white;
 }
-.active .developed__text{
-  display: block;
+.expanded__text{
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
   font-size: 20px;
   margin: 20px 35px;
   line-height: 1.4;
-  text-align: justify;
-}
-.developed__text{
-  display: none;
+  text-align: justify
 }
 /* Offer - section 2 and 3 */
 table{
@@ -462,6 +461,13 @@ table{
 }
 .dot13{
   left:80%
+}
+.dot__popUp{
+  text-align: center;
+  border: 1px var(--green) solid;
+  padding: 10px;
+  margin: 0 0 5px 0 ;
+  background: white;
 }
 .offer__section5{
   margin: 70px 0 0 0;
@@ -849,6 +855,7 @@ table{
   .section__text{
     font-size: 24px;
     margin: -20px 0 0 0;
+    padding: 0 20px;
   }
   .quote{
     left: 0;
