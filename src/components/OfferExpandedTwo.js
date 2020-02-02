@@ -17,7 +17,7 @@ const OfferExpandedTwo = () => {
             <div className="offer__expanded offer__expanded4">
                 <div className="expanded__title title__border">2. Matematyka</div>
                 <p className="expanded__text">
-                    Osada Wiedzy opiera się na pracy wykwalifikowanych nauczycieli, z bogatym dorobkiem zawodowym, mających uprawnienia w zakresie trenerskim, pracujących i koordynujących obozy naukowe od 2010r.  Dzięki pracownikom Uniwersytetu Gdańskiego i Uniwersytetu Morskiego uczniowie będą mogli korzystać bezpośrednio z wiedzy naukowców.
+                    Zajęcia z matematyki to przede wszystkim rozwiązywanie zadań, w których stawiamy na zrozumienie, a nie zapamiętywanie schematów. Tym samym ćwiczymy logiczne myślenie i rozwiązywanie problemów. Na obozie wchodzimy w zagadnienia z którymi uczniowie spotkają się już na samym starcie nowego roku szkolnego. Chcemy w ten sposób zapewnić im pewność swoich umiejętności i spokojny powrót na lekcje matematyki. Jednocześnie dając konkretne narzędzia do działania w sferze fizyki.
                 </p>
                 <div className="expanded__cross">
                         <span className='cross__cross1'></span>
