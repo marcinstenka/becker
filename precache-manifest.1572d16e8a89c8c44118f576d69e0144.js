@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e140c6860c2c7333b5008a8a13336db5",
+    "revision": "518e104891390cbb79c7f7919ecba509",
     "url": "/becker/index.html"
   },
   {
-    "revision": "f8ca7634d089e79495b1",
+    "revision": "ca034d299d7519ab3afc",
     "url": "/becker/static/css/main.bf4a185c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/becker/static/js/2.4601f9e2.chunk.js.LICENSE"
   },
   {
-    "revision": "f8ca7634d089e79495b1",
-    "url": "/becker/static/js/main.e7fd65d5.chunk.js"
+    "revision": "ca034d299d7519ab3afc",
+    "url": "/becker/static/js/main.8c8c6918.chunk.js"
   },
   {
     "revision": "af9f0b0406324763eb13",
@@ -168,10 +168,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/becker/static/media/2.9c9b0866.JPG"
   },
   {
-    "revision": "ac02c088fbae52b1ae478290dbfcaff8",
-    "url": "/becker/static/media/2.ac02c088.jpg"
-  },
-  {
     "revision": "e3c5b3c1ff3eef308b82f717e67e5c08",
     "url": "/becker/static/media/2.e3c5b3c1.JPG"
   },
@@ -182,6 +178,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f8dd7e5b8baa98e2f4acea0cdf6445d1",
     "url": "/becker/static/media/2.f8dd7e5b.jpg"
+  },
+  {
+    "revision": "faee968aded6e47582f598f0025ca919",
+    "url": "/becker/static/media/2.faee968a.jpg"
   },
   {
     "revision": "09a02b2c0c6101b73815f9f352f3ccab",
@@ -216,8 +216,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/becker/static/media/3.5521581f.JPG"
   },
   {
-    "revision": "6edbc771cf51c17af9f8530edb398383",
-    "url": "/becker/static/media/3.6edbc771.jpg"
+    "revision": "59c12253fc8db79e59e008179ab5de0e",
+    "url": "/becker/static/media/3.59c12253.jpg"
   },
   {
     "revision": "8015235af727fa20098fae34b49bc032",
@@ -268,10 +268,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/becker/static/media/4.0c30c351.JPG"
   },
   {
-    "revision": "295cc32d5801a2fb2b707a32b382b159",
-    "url": "/becker/static/media/4.295cc32d.jpg"
-  },
-  {
     "revision": "29860edd0e13c6c0f906e4de23e39ef7",
     "url": "/becker/static/media/4.29860edd.JPG"
   },
@@ -286,6 +282,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5e28a0fc9e4e6e34156a119fc06e344d",
     "url": "/becker/static/media/4.5e28a0fc.JPG"
+  },
+  {
+    "revision": "6edbc771cf51c17af9f8530edb398383",
+    "url": "/becker/static/media/4.6edbc771.jpg"
   },
   {
     "revision": "7089b80f58eb5ed204a28fc330d05b24",
@@ -312,10 +312,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/becker/static/media/4.ecd4a566.JPG"
   },
   {
-    "revision": "18abc1fb3f19b35724f2fbff5de4d14b",
-    "url": "/becker/static/media/5.18abc1fb.jpg"
-  },
-  {
     "revision": "23d8eaacd765bf97f2ce95b7e53cadee",
     "url": "/becker/static/media/5.23d8eaac.JPG"
   },
@@ -336,8 +332,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/becker/static/media/5.db97dc6d.jpg"
   },
   {
-    "revision": "59c12253fc8db79e59e008179ab5de0e",
-    "url": "/becker/static/media/6.59c12253.jpg"
+    "revision": "f9d75a75d89885fa364c8959a039f322",
+    "url": "/becker/static/media/5.f9d75a75.jpg"
+  },
+  {
+    "revision": "5b2b549bba3ca768875c7cf0093f6f30",
+    "url": "/becker/static/media/6.5b2b549b.jpg"
   },
   {
     "revision": "d7ef5b873caec16b899e8008196ecaf5",
@@ -348,12 +348,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/becker/static/media/7.8694871f.jpg"
   },
   {
-    "revision": "cf1b3c92c6b8793ee2ab214c2194d5cc",
-    "url": "/becker/static/media/7.cf1b3c92.jpg"
+    "revision": "9f4876183d44f1aa193c80f32a124a03",
+    "url": "/becker/static/media/7.9f487618.jpg"
   },
   {
-    "revision": "262501906dd4522dfc52a842236aa537",
-    "url": "/becker/static/media/8.26250190.jpg"
+    "revision": "0fa27061305a9587c1975a046791f9f6",
+    "url": "/becker/static/media/8.0fa27061.jpg"
   },
   {
     "revision": "87650238b6bb5b4b8e0d95af0cf76c05",
