@@ -273,6 +273,7 @@ nav{
   position: relative;
   max-width: 1050px;
   margin: 0 auto;
+  cursor: pointer;
 }
 .expanded__cross{
   position: absolute;
