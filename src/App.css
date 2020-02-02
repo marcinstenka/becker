@@ -515,11 +515,7 @@ table{
     grid-template-columns: 250px 250px 250px;
   }
 }
-@media (min-width: 1070px){
-  .ReactGridGallery{
-    grid-template-columns: 250px 250px 250px 250px;
-  }
-}
+
 .ReactGridGallery_tile, .ReactGridGallery_tile-viewport{
   transition: 0.3s;
   width: 250px !important;
@@ -651,7 +647,56 @@ table{
 .menu-desktop{
   display: none;
 }
+/* History */
+.history__title{
+  font-size: 30px;
+  margin: 130px 0 15px 0;
+  display: flex;
+  justify-content: center;
+}
+.element__year{
+  font-size: 22px;
+}
+.history__element{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 0;
+}
+.history__element:nth-of-type(odd){
+  background: var(--green);
+  color: white;
 
+}
+.element__text{
+  margin: 0 30px 30px 30px;
+  text-align: justify;
+  font-size: 18px;
+  line-height: 1.4;
+  max-width: 770px;
+}
+.element__images{
+  display: flex;
+}
+.history__thanks{
+  max-width: 770px;
+  font-size: 18px;
+  margin: 35px 30px;
+  line-height: 1.4;
+  text-align: justify;
+}
+.thanks__p{
+  margin: 0;
+}
+ul{
+  margin: 0;
+  list-style: none;
+  padding: 0;
+}
+li{
+  margin: 10px 0;
+}
 /* media queries */
 @media (min-width: 550px){
   .hero__headerSmall{
@@ -860,6 +905,20 @@ table{
   }
   .quote{
     left: 0;
+  }
+  /* history */
+  .history__title {
+    font-size: 35px;
+    margin: 140px 0 25px 0;
+  }
+  .element__year {
+    font-size: 26px;
+  }
+  .element__text {
+    font-size: 21px;
+  }
+  .history__thanks{
+    margin: 35px auto;
   }
 }
 
