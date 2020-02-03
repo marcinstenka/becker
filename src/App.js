@@ -18,6 +18,7 @@ function App() {
         <Route exact path='/zespol' component={Team} />
         <Route exact path='/rekomendacje' component={Recomendations} />
         <Route exact path='/regulamin' component={Regulations} />
+        <Route exact path='/blog' component={Regulations} />
         <Route exact path='/kontakt' component={Contact} />
       </Switch>
     </BrowserRouter>

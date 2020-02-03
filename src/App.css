@@ -706,6 +706,15 @@ ul{
 li{
   margin: 10px 0;
 }
+.under-construction{
+  width: 100vw;
+  height: calc(100vh - 96px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  color: var(--green);
+}
 /* media queries */
 @media (min-width: 550px){
   .hero__headerSmall{

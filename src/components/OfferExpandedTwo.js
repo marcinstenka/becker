@@ -27,7 +27,7 @@ const OfferExpandedTwo = () => {
             <div className="offer__expanded offer__expanded5">
                 <div className="expanded__title title__border">3. Programowanie</div>
                 <p className="expanded__text">
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt id, quaerat earum suscipit sint iure! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut perspiciatis atque odit eos nisi qui amet recusandae. Repellat, quae? Ad explicabo quisquam recusandae, perspiciatis fuga voluptate sed doloremque facere dolor aperiam omnis earum soluta veniam voluptatibus ut voluptates. Reiciendis, numquam voluptatem aspernatur ullam voluptas dolore perspiciatis eligendi eum rem iusto.
+                Zajęcia z programowania są prowadzona w zależności od zaawansowania uczestników. Może to być nauka podstaw programowania i algorytmów (w jednym z trzech języków: C++, Python, JavaScript). Dla zaawansowanych może to być rozwiązywanie zadań z pogranicza olimpiady informatycznej, bazujących na strukturach danych czy grafach lub stworzenie projektu praktycznego. Każdy rodzaj zajęć ma na celu rozwinięcie pasji związanych z programowaniem oraz pomoc w zrozumieniu komputerów i informatyki, a także powiązanie programowania z matematyką i fizyką.
                 </p>
                 <div className="expanded__cross">
                         <span className='cross__cross1'></span>
