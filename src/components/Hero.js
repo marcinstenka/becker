@@ -1,9 +1,16 @@
 import React, { useState, useEffect } from 'react'
 import HeroMobile from '../assets/img/heroMobile.jpg'
 import HeroDesktop from '../assets/img/heroDesktop.jpg'
+import HeroSuperDesktop from '../assets/img/heroSuperDesktop.jpg'
 const Hero = () => {
     const [windowWidth, setWindowWidth ] = useState(window.innerWidth);
-    const imageUrl = windowWidth >= 768 ? HeroDesktop : HeroMobile;
+    if (windowWidth <= 768){
+        var imageUrl = HeroMobile
+    } else if (windowWidth <= 1920){
+        imageUrl = HeroDesktop
+    } else {
+        imageUrl = HeroSuperDesktop
+    }
     const handleWindowResize = () => {
         setWindowWidth(window.innerWidth);
     };
