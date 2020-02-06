@@ -377,17 +377,18 @@ table{
 }
 .line__upArrow, .line__downArrow{
   position: absolute;
-  width: 3px;
+  width: 4px;
   height: 14px;
   background: var(--green);
-  right: 5px;
+  right: 1px;
 }
 .line__downArrow{
   transform: rotate(45deg);
+  top: -2px;
 }
 .line__upArrow{
-  transform: rotate(-45deg);
-    top: -11px;
+  transform: rotate(-45deg);  
+  top: -9px;
 }
 .test{
   width: 0;
