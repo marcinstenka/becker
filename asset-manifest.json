@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/becker/static/css/main.f1071581.chunk.css",
+    "main.css": "/becker/static/css/main.f42a923c.chunk.css",
     "main.js": "/becker/static/js/main.a977cfb3.chunk.js",
     "main.js.map": "/becker/static/js/main.a977cfb3.chunk.js.map",
     "runtime-main.js": "/becker/static/js/runtime-main.efc894fc.js",
@@ -8,9 +8,9 @@
     "static/js/2.2625a0e1.chunk.js": "/becker/static/js/2.2625a0e1.chunk.js",
     "static/js/2.2625a0e1.chunk.js.map": "/becker/static/js/2.2625a0e1.chunk.js.map",
     "index.html": "/becker/index.html",
-    "precache-manifest.0f2d9412790edb81ebf3ef258d1caf80.js": "/becker/precache-manifest.0f2d9412790edb81ebf3ef258d1caf80.js",
+    "precache-manifest.d59c6248e29e9a1407d048403cfab7fe.js": "/becker/precache-manifest.d59c6248e29e9a1407d048403cfab7fe.js",
     "service-worker.js": "/becker/service-worker.js",
-    "static/css/main.f1071581.chunk.css.map": "/becker/static/css/main.f1071581.chunk.css.map",
+    "static/css/main.f42a923c.chunk.css.map": "/becker/static/css/main.f42a923c.chunk.css.map",
     "static/js/2.2625a0e1.chunk.js.LICENSE": "/becker/static/js/2.2625a0e1.chunk.js.LICENSE",
     "static/media/1.jpg": "/becker/static/media/1.f1724b78.jpg",
     "static/media/1.JPG": "/becker/static/media/1.fbd2fb6f.JPG",
@@ -56,7 +56,7 @@
   "entrypoints": [
     "static/js/runtime-main.efc894fc.js",
     "static/js/2.2625a0e1.chunk.js",
-    "static/css/main.f1071581.chunk.css",
+    "static/css/main.f42a923c.chunk.css",
     "static/js/main.a977cfb3.chunk.js"
   ]
 }
