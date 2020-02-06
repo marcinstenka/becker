@@ -11,12 +11,20 @@ const OfferDay = () => {
 
                 <Controller>
                     <Scene duration={400} classToggle="animation-line" triggerElement=".offer__title">
-                    <div className="test"></div>
+                    <div className="line"></div>
                     </Scene>
                 </Controller>
                     <div className="line__beginning"></div>
-                    <div className="line__upArrow"></div>
-                    <div className="line__downArrow"></div>
+                    <Controller>
+                        <Scene duration={400} classToggle="animation-arrow" triggerElement=".offer__title">
+                            <div className="line__downArrow"></div>
+                        </Scene>
+                    </Controller>
+                    <Controller>
+                        <Scene duration={400} classToggle="animation-arrow" triggerElement=".offer__title">
+                            <div className="line__upArrow"></div>
+                        </Scene>
+                    </Controller>
                     <Popup content={<div className='dot__popUp'>7:00 - 7:30<br></br>Pobudka, poranna toaleta</div>} trigger={<div className="day-schedule__dot dot1"></div>} position='top center' />
                     <Popup content={<div className='dot__popUp'>7:30 - 8:00<br></br>Zaprawa poranna</div>} trigger={<div className="day-schedule__dot dot2"></div>} position='top center' />
                     <Popup content={<div className='dot__popUp'>8:30 - 9:00<br></br>Śniadanie</div>} trigger={<div className="day-schedule__dot dot3"></div>} position='top center' />

@@ -11,7 +11,7 @@ import Contact from './pages/Contact'
 import Page404 from './pages/Page404'
 function App() {
   return (
-    <BrowserRouter basename='/becker/'>
+    <BrowserRouter basename='/beceker/'>
       <Switch>
         <Route exact path='/' component={Colony} />
         <Route exact path='/historia' component={History} />
