@@ -8,9 +8,10 @@ import Team from './pages/Team'
 import Recomendations from './pages/Recomendations.js'
 import Regulations from './pages/Regulations.js'
 import Contact from './pages/Contact'
+import Page404 from './pages/Page404'
 function App() {
   return (
-    <BrowserRouter basename="/becker">
+    <BrowserRouter basename='/becker/'>
       <Switch>
         <Route exact path='/' component={Colony} />
         <Route exact path='/historia' component={History} />
@@ -20,6 +21,7 @@ function App() {
         <Route exact path='/regulamin' component={Regulations} />
         <Route exact path='/blog' component={Regulations} />
         <Route exact path='/kontakt' component={Contact} />
+        <Route component={Page404} />
       </Switch>
     </BrowserRouter>
   )

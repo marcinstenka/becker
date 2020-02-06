@@ -1,12 +1,19 @@
 import React from 'react'
 import { Popup } from 'semantic-ui-react'
+import { Controller, Scene } from 'react-scrollmagic';
 
 const OfferDay = () => {
     return (
         <div className="offer__section4">
             <div className="offer__title">Plan dnia</div>
             <div className="offer__day-schedule">
-                <div className="day-schedule__line">
+            <div className="day-schedule__line">
+
+                <Controller>
+                    <Scene duration={400} classToggle="animation-line" triggerElement=".offer__title">
+                    <div className="test"></div>
+                    </Scene>
+                </Controller>
                     <div className="line__beginning"></div>
                     <div className="line__upArrow"></div>
                     <div className="line__downArrow"></div>
