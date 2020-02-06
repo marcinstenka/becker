@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d5e85aa49ea1ca81792b0fc704e93df",
+    "revision": "9337af39f141232367f5740c2d39aadc",
     "url": "/becker/index.html"
   },
   {
-    "revision": "546dc1c09129b66ace2e",
+    "revision": "74aa96cb016811cf64ba",
     "url": "/becker/static/css/main.91127fb6.chunk.css"
   },
   {
-    "revision": "5f3ba2b199080deb63bf",
-    "url": "/becker/static/js/2.3ea494ad.chunk.js"
+    "revision": "7c0c01dc68399fe14756",
+    "url": "/becker/static/js/2.0aa6f08a.chunk.js"
   },
   {
     "revision": "7531c8d6e2621cf931cc527c7ccf7cc2",
-    "url": "/becker/static/js/2.3ea494ad.chunk.js.LICENSE"
+    "url": "/becker/static/js/2.0aa6f08a.chunk.js.LICENSE"
   },
   {
-    "revision": "546dc1c09129b66ace2e",
-    "url": "/becker/static/js/main.0d425ea9.chunk.js"
+    "revision": "74aa96cb016811cf64ba",
+    "url": "/becker/static/js/main.5d7d3e29.chunk.js"
   },
   {
     "revision": "af9f0b0406324763eb13",
@@ -372,12 +372,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/becker/static/media/as3.b4af4f07.jpg"
   },
   {
-    "revision": "f5a148b56db182c2be9a32295a075cf0",
-    "url": "/becker/static/media/bookBig.f5a148b5.jpg"
+    "revision": "9e65e651b5782c25b5ca677d643c74e1",
+    "url": "/becker/static/media/bookBig.9e65e651.jpg"
   },
   {
-    "revision": "de346fb0d275e801ba24b21f483fc21d",
-    "url": "/becker/static/media/bookSmall.de346fb0.jpg"
+    "revision": "e4388e5f33f73ece2df8889a8edf5033",
+    "url": "/becker/static/media/bookSmall.e4388e5f.jpg"
   },
   {
     "revision": "577e7d3036be0083d8854f369a8df3a8",
@@ -404,12 +404,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/becker/static/media/cz3.29c0b160.jpg"
   },
   {
-    "revision": "909ae43dfee7fafb0bafcad1bd599445",
-    "url": "/becker/static/media/heroDesktop.909ae43d.jpg"
+    "revision": "937602ca12cfaccd1167b8e92717c4d3",
+    "url": "/becker/static/media/heroDesktop.937602ca.jpg"
   },
   {
-    "revision": "d3edf94233665c65794fb2a588ca3398",
-    "url": "/becker/static/media/heroMobile.d3edf942.jpg"
+    "revision": "0c1d78c294cce4bfb3568a869ac151e6",
+    "url": "/becker/static/media/heroMobile.0c1d78c2.jpg"
+  },
+  {
+    "revision": "96451149e65ca4d48a950ddbebc00e9d",
+    "url": "/becker/static/media/heroSuperDesktop.96451149.jpg"
   },
   {
     "revision": "30fa0886f8b6840a53f5deb91f9722f5",
@@ -432,12 +436,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/becker/static/media/logo.55c07abb.png"
   },
   {
-    "revision": "806753d57f65a291e440fd8ce74f356e",
-    "url": "/becker/static/media/mailpostBig.806753d5.jpg"
+    "revision": "d2b5d27badb1042bc1b0de95a1cd936c",
+    "url": "/becker/static/media/mailpostBig.d2b5d27b.jpg"
   },
   {
-    "revision": "7e3385420bd1002af987a34012f7a0c8",
-    "url": "/becker/static/media/mailpostSmall.7e338542.jpg"
+    "revision": "6dc89a1949e8086370c38dc575462c5f",
+    "url": "/becker/static/media/mailpostSmall.6dc89a19.jpg"
   },
   {
     "revision": "71dd9566b2e3f83f6c68dc12cbf002c7",
