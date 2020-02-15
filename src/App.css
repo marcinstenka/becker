@@ -260,6 +260,7 @@ nav{
 }
 .expanded__title{
   font-size: 22px;
+  transition: 0.3s;
 }
 .active .title__border{
   border-top: 1px var(--green) solid;

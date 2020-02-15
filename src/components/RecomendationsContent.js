@@ -58,7 +58,7 @@ const RecomendationsContent = () => {
                 </div>
                 <div className="recomendations__section">
                     <div className="section__text">„Na obozie zawsze czułam, że jestem tak po prostu... na miejscu. Jestem tu, gdzie powinnam być, w odpowiednim czasie, z odpowiednimi ludźmi. Po powrocie czułam się jak balonik napełniony szczęściem. Tylko trochę żal, że już koniec. Tu uczymy się, ale tak nie z przymusu (może troszkę z poczucia obowiązku... <span role='img' aria-label='laughing face'>😅</span>). Spędzamy mnóstwo czasu razem, robiąc naprawdę przyjemne rzeczy,  gramy w siatkę, w planszówki, pływamy w jeziorze, a czas upływa wśród fantastycznych ludzi. Poznajemy innych, ale również siebie, jacy jesteśmy i podoba nam się to, co odkrywamy. Filarem obozu jest kadra. Oni wiedzą o co w tym chodzi. Szanują wszystkich uczestników, przyjmują każdego takim jakim jest, respektują nasz indywidualizm, wspierają nasze inicjatywy. Moim zdaniem misją obozu jest rozwój na każdej płaszczyźnie, spełniona potrzeba przynależności do grupy ciekawych, inteligentnych i często lekko zwariowanych ludzi.”</div>
-                    <div className='section__author'><br></br>Jana Kicyła</div>
+                    <div className='section__author'><br></br>Jagna Kicyła</div>
                     <h1 className='quote'>~</h1>
                 </div>
                 <div className="recomendations__section">
@@ -69,6 +69,11 @@ const RecomendationsContent = () => {
                 <div className="recomendations__section">
                     <div className="section__text">„Podczas obozów panuje niepowtarzalny klimat w grupie, która liczy kilkadziesiąt osób, w różnym wieku i o różnych charakterach. Mam ogromną przyjemność od lat osobiście przyglądać się tym niezwykłym relacjom, przebywając na wypoczynku w czasie trwania letniego obozu naukowego. Byli absolwenci wracają do tego miejsca, aby spotkać się ze swoimi nauczycielami i kolegami, bo jak mówią: tu jest jakaś „magia”. Jako rodzic jestem ogromnie wdzięczny twórcom za projekt „Wyobraźnia ważniejsza od wiedzy”, który pozwolił ukształtować moje dzieci w taki sposób, że dzisiaj jestem z nich bardzo dumny.”</div>
                     <div className='section__author'><br></br>Marek Targoński</div>
+                    <h1 className='quote'>~</h1>
+                </div>
+                <div className="recomendations__section">
+                    <div className="section__text">„W ostatnich latach mój syn uczestniczył w obozie naukowym w Wielu, organizowanym przez ciekawych ludzi oddanych młodzieży i starających się o  rozwój ich wiedzy. Wspaniała atmosfera i ciekawe zajęcia dydaktyczne z zakresu fizyki, informatyki czy matematyki, wzbogacone były o aktywność fizyczną : codzienna przebieżka, kąpiel w jeziorze czy gra w siatkówkę . Atrakcją corocznego obozu były organizowane spływy kajakowe, integrujące nie tylko młodzież, ale i ich rodziców . Syn zawsze wracał z obozu pełen zapału i entuzjazmu. Myślę, że  wynikało to z tego w jaki sposób traktowano go we Wielu. Zawsze miał możliwość wyrażania swoich opinii bez obaw o krytykę. Konstruktywne rozmowy i dyskusje między młodzieżą i wykładowcami wydobywały z nich to co najlepsze. Obóz daje możliwość rozwoju i poszerzenia nie tylko wiedzy, ale grona przyjaciół i poznania interesujących ludzi.”</div>
+                    <div className='section__author'><br></br>Katarzyna i Aleksander Becker</div>
                     <h1 className='quote'>~</h1>
                 </div>
             </div>
