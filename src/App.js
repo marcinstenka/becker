@@ -12,7 +12,7 @@ import Page404 from './pages/Page404'
 function App() {
   return (
     <BrowserRouter>
-      <Switch>
+      <Switch basename='/becker/'>
         <Route exact path='/' component={Colony} />
         <Route exact path='/historia' component={History} />
         <Route exact path='/oferta' component={Offer} />
