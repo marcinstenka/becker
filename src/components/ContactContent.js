@@ -15,7 +15,7 @@ const ContactContent = () => {
                     <p className='contact__p'>kontakt@osadawiedzy.pl</p>
                     <div className="contact__icons">
                         <a href='//www.facebook.com/osadawiedzy/'><div className="contact__FB"><img src={FB} alt='icon of facebook' /></div></a>
-                        <a href='//instagram.com'><div className="contact__IG"><img src={IG} alt='icon of instagram' /></div></a>
+                        <a href='//www.instagram.com/osadawiedzy/'><div className="contact__IG"><img src={IG} alt='icon of instagram' /></div></a>
                     </div>
                 </div>
             </div>

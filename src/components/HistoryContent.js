@@ -346,11 +346,17 @@ const HisotryContent = () => {
                         <li className="thanks__list-item"><b>4.</b> mgr Ireneuszowi Mańkowskiemu z LO nr 1 w Lęborku </li>
                         <li className="thanks__list-item"><b>5.</b> mgr Wojciechowi Malickiemu z obecnej Szkoły Podstawowej nr 7 w Lęborku</li>
                         <li className="thanks__list-item"><b>6.</b> Nauczycielom dawnego Gimnazjum nr 1 w Lęborku: twórcy projektu inż. Andrzejowi Płocharskiemu, mgr Ali Mańkowskiej, mgr Małgorzacie Poziemskiej, mgr Mateuszowi Ziarkowskiemu, mgr Lucynie Racis oraz śp. mgr Sebastianowi Guderskiemu za ogromną pomoc i zaangażowanie w realizacji programu.</li>
+                        <li className="thanks__list-item"><b>7.</b> Pani Karinie Florek oraz całemu zespołowi Ośrodka Wypoczynkowego eFKa Wiele za to, że przez 9 lat tworzyli nam niezwykłą przestrzeń do rozwoju. Dziękujemy za cudowną kuchnię i cudowną atmosferę.</li>
                     </ul>
                 </div>
             </div>
             <div className="history__thanks">
-                <p className="thanks__p">Dziękujemy Panu Markowi Kubiakowi Prezesowi PPD „ POLTAREX ” Sp. z o.o., Panu Maciejowi Babij Prezesowi PPH AMG Sp. z o.o., Panu Dariuszowi Karaś Prezesowi MEYN Polska Sp. z o.o., firmie WIFOT Lębork za ogromną pomoc i wsparcie w organizacji obozów letnich i zimowych.</p>
+                <p className="thanks__p">
+                    Dziękujemy Panu Markowi Kubiakowi Prezesowi PPD „ POLTAREX ” Sp. z o.o., Panu Maciejowi Babij Prezesowi PPH AMG Sp. z o.o., Panu Dariuszowi Karaś Prezesowi MEYN Polska Sp. z o.o., firmie WIFOT Lębork za ogromną pomoc i wsparcie w organizacji obozów letnich i zimowych.
+                    <br></br>
+                    <br></br>
+                    Tak kończy się jedna historia a rozpoczyna druga. Tak rodzi się Osada Wiedzy.
+                </p>
             </div>
         </div>
     );
