@@ -9,8 +9,8 @@ const OfferTables = () => {
                         <tbody>
                             <tr>
                                 <th className='term__header'>Termin</th>
-                                <th className='term__header'>Cena do 31.03.2020r.</th>
-                                <th className='term__header'>Cena od 1.04.2020r.</th>
+                                <th className='term__header'>Cena do 30.06.2020r.</th>
+                                <th className='term__header'>Cena od 1.07.2020r.</th>
                             </tr>
                             <tr>
                                 <td className='term__row'>2-9.08.2020r.</td>

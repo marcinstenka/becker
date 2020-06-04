@@ -9,7 +9,6 @@ const Offer = () => {
         <>
             <Navbar isHero={false} />
             <OfferContent />
-            
             <Footer />
         </>
     );
