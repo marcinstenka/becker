@@ -1,9 +1,9 @@
 import React from 'react'
 
-import pdf1 from '../assets/links/umowa-obóz.pdf';
-import pdf2 from '../assets/links/Regulamin-obozu-naukowego.pdf';
+import pdf1 from '../assets/links/umowa-oboz.pdf';
+import pdf2 from '../assets/links/regulamin-obozu-naukowego.pdf';
 import pdf3 from '../assets/links/opinia-nauczyciela-matematyki-fizyki.pdf';
-import pdf4 from '../assets/links/rozkład-dnia.pdf';
+import pdf4 from '../assets/links/rozklad-dnia.pdf';
 import pdf5 from '../assets/links/karta-uczestnika.pdf';
 
 const DownloadsContent = () => {
