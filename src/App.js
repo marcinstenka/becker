@@ -6,7 +6,8 @@ import History from './pages/History.js'
 import Offer from './pages/Offer'
 import Team from './pages/Team'
 import Recomendations from './pages/Recomendations.js'
-import Regulations from './pages/Regulations.js'
+import Downloads from './pages/Downloads.js'
+import Blog from './pages/Blog.js'
 import Contact from './pages/Contact'
 import Page404 from './pages/Page404'
 function App() {
@@ -18,8 +19,8 @@ function App() {
         <Route exact path='/oferta' component={Offer} />
         <Route exact path='/zespol' component={Team} />
         <Route exact path='/rekomendacje' component={Recomendations} />
-        <Route exact path='/regulamin' component={Regulations} />
-        <Route exact path='/blog' component={Regulations} />
+        <Route exact path='/do-pobrania' component={Downloads} />
+        <Route exact path='/blog' component={Blog} />
         <Route exact path='/kontakt' component={Contact} />
         <Route component={Page404} />
       </Switch>

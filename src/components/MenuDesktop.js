@@ -11,7 +11,7 @@ const MenuDesktop = ({ isHero }) => {
                 <li><Link className='menu-link' to='/zespol'>ZESPÓŁ</Link></li>
                 <li><Link className='menu-link' to='/rekomendacje'>REKOMENDACJE</Link></li>
                 <li><Link className='menu-link' to='/blog'>BLOG</Link></li>
-                <li><Link className='menu-link' to='/regulamin'>REGULAMIN</Link></li>
+                <li><Link className='menu-link' to='/do-pobrania'>DO POBRANIA</Link></li>
                 <li><Link className='menu-link' to='/kontakt'>KONTAKT</Link></li>
             </ul>
         </div>
