@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7faeb0598641a747ebceb36f28c33bd8",
+    "revision": "c8ff49785398556eaa16ff9c357f9508",
     "url": "/becker/index.html"
   },
   {
-    "revision": "3f5b7201cccc2b20f349",
-    "url": "/becker/static/css/main.515538de.chunk.css"
+    "revision": "ae94ef6d2fbc1e45e451",
+    "url": "/becker/static/css/main.1d32d25f.chunk.css"
   },
   {
-    "revision": "b843de9714e8dc73b145",
-    "url": "/becker/static/js/2.d3a129cb.chunk.js"
+    "revision": "164860ad4b6338175a91",
+    "url": "/becker/static/js/2.9a34fa08.chunk.js"
   },
   {
     "revision": "a402f3a9ce536f4cb5fa94980b2a8fea",
-    "url": "/becker/static/js/2.d3a129cb.chunk.js.LICENSE"
+    "url": "/becker/static/js/2.9a34fa08.chunk.js.LICENSE"
   },
   {
-    "revision": "3f5b7201cccc2b20f349",
-    "url": "/becker/static/js/main.a2990162.chunk.js"
+    "revision": "ae94ef6d2fbc1e45e451",
+    "url": "/becker/static/js/main.c01ea9f6.chunk.js"
   },
   {
     "revision": "af9f0b0406324763eb13",
@@ -432,6 +432,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/becker/static/media/ir3.642cd1f0.jpg"
   },
   {
+    "revision": "7ecd9cd134e0b7d02cf229937091aff2",
+    "url": "/becker/static/media/karta-uczestnika.7ecd9cd1.pdf"
+  },
+  {
     "revision": "55c07abb592e2df5d9c578c7eba37da0",
     "url": "/becker/static/media/logo.55c07abb.png"
   },
@@ -454,6 +458,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f6de20b1a53cab6eaf4ec05ba7398aa2",
     "url": "/becker/static/media/nz3.f6de20b1.jpg"
+  },
+  {
+    "revision": "65523448d9a2b9a22f8acc62a516825f",
+    "url": "/becker/static/media/opinia-nauczyciela-matematyki-fizyki.65523448.pdf"
+  },
+  {
+    "revision": "ed8ac77c47be8f645ff37bd91a4c32af",
+    "url": "/becker/static/media/regulamin-obozu-naukowego.ed8ac77c.pdf"
+  },
+  {
+    "revision": "af99c70f4912b32a16c51a6fe7367e3d",
+    "url": "/becker/static/media/rozklad-dnia.af99c70f.pdf"
+  },
+  {
+    "revision": "052854b5a52e85e1fd61394ffe113ebf",
+    "url": "/becker/static/media/umowa-oboz.052854b5.pdf"
   },
   {
     "revision": "3e58136ed5998e1af2ac008db2ed5c3a",
