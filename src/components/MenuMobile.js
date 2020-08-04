@@ -17,7 +17,7 @@ const MenuMobile = () => {
                 <Link to='/oferta'>OFERTA</Link>
                 <Link to='/zespol'>ZESPÓŁ</Link>
                 <Link to='/rekomendacje'>REKOMENDACJE</Link>
-                <Link to='/blog'>BLOG</Link>
+                <a href='//osadawiedzyy.blogspot.com/'>BLOG</a>
                 <Link to='/do-pobrania'>DO POBRANIA</Link>
                 <Link to='/kontakt'>KONTAKT</Link>
             </div>
