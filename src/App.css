@@ -10,6 +10,9 @@ html {
 body{
   margin: 0;
 }
+bold{
+  font-weight: bold;
+}
 .header{
   font-size: 33px;
   font-weight: normal;
@@ -153,8 +156,8 @@ nav{
   color: black;
   text-align: justify;
   text-decoration: none;
-  font-size: 25px;
-  margin: 15px 0;
+  font-size: 23px;
+  margin: 10px 0;
   transition: color 0.5s;
 }
 .mobile-menu__links a:hover{
@@ -255,7 +258,7 @@ nav{
 
 
 /* Offer -section 1 and 5*/
-.offer{
+.offer, .studies{
   margin: 150px 0 0 0;
 }
 .expanded__title{
@@ -270,7 +273,7 @@ nav{
   border-top: none;
   border-bottom: 1px gray solid;
 }
-.offer__expanded{
+.offer__expanded, .studies__expanded{
   position: relative;
   max-width: 1050px;
   margin: 0 auto;
@@ -323,7 +326,7 @@ nav{
   line-height: 1.4;
   text-align: justify
 }
-/* Offer - section 2 and 3 */
+/* Offer - section 2 and 3 and Studies */
 table{
   width:100%;
   border-spacing: 0;
@@ -353,6 +356,21 @@ table{
 }
 .term__row-second{
   padding: 0 20px 20px 20px;
+}
+.studies__term{
+  display: block;
+  margin: 40px 0 ;
+}
+.studies__mobileTerm{
+  display: none;
+}
+.studies__term .term__header{
+  font-size: 20px;
+}
+.studies__term .term__row-second{
+  font-weight: 300;
+  padding: 20px;
+
 }
 /* Offer - section 4 */
 .offer__section4{
@@ -825,6 +843,20 @@ li{
   .frame{
     height: 300px;
   }
+  .studies__term{
+    display: none;
+  }
+  .studies__mobileTerm{
+    display: block;
+    font-size: 22px;
+    padding: 0 20px 20px 20px;
+  }
+  .studies__mobileTerm h2{
+    margin: 40px 0 0 0;
+  }
+  .studies__mobileTerm ul:last-of-type{
+    margin: 0 0 40px 0;
+  }
 }
 @media (max-width: 530px){
   .frame{
@@ -837,39 +869,7 @@ li{
   }
 }
 @media (min-width: 1050px){
-  .header {
-    font-size: 46px;
-  }
-  .logo{
-    height: 150px;
-  }
-  nav{
-    height: 115px;
-  }
-  .hamburger, .mobile-menu{
-    display: none;
-  }
-  .menu-desktop{
-    display: block;
-  }
-  .menu-ul{
-    list-style: none;
-    display: flex;
-    margin: 0 30px 0 0;
-  }
-  .menu-link{
-    color:white;
-    text-decoration: none;
-    margin: 0 20px 0 0;
-    font-size: 22px;
-    transition: 0.5s;
-  }
-  .menu-link-hero{
-    color: black !important;
-  }
-  .menu-link:hover{
-    color: var(--green) !important;
-  }
+  
   /* hero */
   .hero__headerBig{
     font-size: 60px;
@@ -1021,5 +1021,40 @@ li{
   }
   .history__thanks{
     margin: 35px auto;
+  }
+}
+@media (min-width: 1180px){
+  .header {
+    font-size: 46px;
+  }
+  .logo{
+    height: 150px;
+  }
+  nav{
+    height: 115px;
+  }
+  .hamburger, .mobile-menu{
+    display: none;
+  }
+  .menu-desktop{
+    display: block;
+  }
+  .menu-ul{
+    list-style: none;
+    display: flex;
+    margin: 0 30px 0 0;
+  }
+  .menu-link{
+    color:white;
+    text-decoration: none;
+    margin: 0 20px 0 0;
+    font-size: 22px;
+    transition: 0.5s;
+  }
+  .menu-link-hero{
+    color: black !important;
+  }
+  .menu-link:hover{
+    color: var(--green) !important;
   }
 }

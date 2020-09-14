@@ -15,6 +15,7 @@ const MenuMobile = () => {
                 <Link to='/'>OSADA</Link>
                 <Link to='/historia'>HISTORIA</Link>
                 <Link to='/oferta'>OFERTA</Link>
+                <Link to='/fizyka-po-godzinach'>ZAJĘCIA</Link>
                 <Link to='/zespol'>ZESPÓŁ</Link>
                 <Link to='/rekomendacje'>REKOMENDACJE</Link>
                 <a href='//osadawiedzyy.blogspot.com/'>BLOG</a>

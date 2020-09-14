@@ -9,18 +9,18 @@ const OfferTables = () => {
                         <tbody>
                             <tr>
                                 <th className='term__header'>Termin</th>
-                                <th className='term__header'>Cena do 30.06.2020r.</th>
-                                <th className='term__header'>Cena od 1.07.2020r.</th>
+                                <th className='term__header'>Cena do 30.04.2021r.</th>
+                                <th className='term__header'>Cena od 1.05.2021r.</th>
                             </tr>
                             <tr>
-                                <td className='term__row'>2-9.08.2020r.</td>
-                                <td className='term__row'>1490,00 zł</td>
-                                <td className='term__row'>1590,00 zł</td>
+                                <td className='term__row'>18-25.07.2021r.</td>
+                                <td className='term__row'>1690,00 zł</td>
+                                <td className='term__row'>1790,00 zł</td>
                             </tr>
                             <tr>
-                                <td className='term__row-second'>9-16.08.2020r.</td>
-                                <td className='term__row-second'>1490,00 zł</td>
-                                <td className='term__row-second'>1590,00 zł</td>
+                                <td className='term__row-second'>25.07-1.08.2020r.</td>
+                                <td className='term__row-second'>1690,00 zł</td>
+                                <td className='term__row-second'>1790,00 zł</td>
                             </tr>
                         </tbody>
                     </table>
