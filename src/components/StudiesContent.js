@@ -3,7 +3,6 @@ import React, {useEffect} from 'react'
 import StudiesExpandedOne from './StudiesExpandedOne'
 import StudiesTables from './StudiesTables'
 import StudiesExpandedTwo from './StudiesExpandedTwo'
-import StudiesExpandedThree from './StudiesExpandedTwo'
 
 const StudiesContent = () => {
     // Logic for <StudiesExpandedOne /> and StudiesExpandedTwo />
