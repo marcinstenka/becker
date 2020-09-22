@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f4a9ecec94ef349dcddc14e977c1de0",
+    "revision": "d9aacf64793a0f7208705dd8add54deb",
     "url": "/becker/index.html"
   },
   {
-    "revision": "eb54e4b8459ea0e18806",
-    "url": "/becker/static/css/main.03285ba8.chunk.css"
+    "revision": "4a4a3318405013e4a220",
+    "url": "/becker/static/css/main.48ee308f.chunk.css"
   },
   {
-    "revision": "87d21a87acf1e0d1e500",
-    "url": "/becker/static/js/2.8d12ff25.chunk.js"
+    "revision": "c99f87990fba06bd1af9",
+    "url": "/becker/static/js/2.aa59cea3.chunk.js"
   },
   {
-    "revision": "a402f3a9ce536f4cb5fa94980b2a8fea",
-    "url": "/becker/static/js/2.8d12ff25.chunk.js.LICENSE"
+    "revision": "8c4b3bd464f69dcff9dd9560811d82a4",
+    "url": "/becker/static/js/2.aa59cea3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eb54e4b8459ea0e18806",
-    "url": "/becker/static/js/main.eec14231.chunk.js"
+    "revision": "4a4a3318405013e4a220",
+    "url": "/becker/static/js/main.cf0f7007.chunk.js"
   },
   {
-    "revision": "af9f0b0406324763eb13",
-    "url": "/becker/static/js/runtime-main.efc894fc.js"
+    "revision": "9cafed33b405efb91379",
+    "url": "/becker/static/js/runtime-main.7ab9c35d.js"
   },
   {
     "revision": "0328e4ecaafced458f0efb8947abc809",
