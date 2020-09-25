@@ -39,7 +39,7 @@ const StudiesTables = () => {
                                 <th className='term__row-second'>dr hab. Bogusław Pranszke</th>
                                 <th className='term__row-second'>Do uzgodnienia</th>
                                 <th className='term__row-second'>Do uzgodnienia</th>
-                                <th className='term__row-second'>2 razy w tygodniu</th>
+                                <th className='term__row-second'>2 razy w roku szkolnym</th>
                             </tr>
                         </tbody>
                     </table>
