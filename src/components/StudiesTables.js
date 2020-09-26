@@ -35,6 +35,13 @@ const StudiesTables = () => {
                                 <th className='term__row-second'>Sobota</th>
                             </tr>
                             <tr>
+                                <th className='term__header'>Wykłady</th>
+                                <th className='term__row-second'> - </th>
+                                <th className='term__row-second'>90 minut</th>
+                                <th className='term__row-second'>Sobota</th>
+                                <th className='term__row-second'>2 razy w roku szkolnym</th>
+                            </tr>
+                            <tr>
                                 <th className='term__header'>Wyjazdy na UM</th>
                                 <th className='term__row-second'>dr hab. Bogusław Pranszke</th>
                                 <th className='term__row-second'>Do uzgodnienia</th>
@@ -66,6 +73,13 @@ const StudiesTables = () => {
                     <li><bold>Czas trwania:</bold> 90 minut</li>
                     <li><bold>Dzień tygodnia:</bold> Sobota</li>
                     <li><bold>Ilość zajęć:</bold> 4 razy w roku szkolnym zajęcia odbywają się w tym samym dniu wykładowym</li>
+                </ul>
+                <h2>Wykłady</h2>
+                <ul>
+                    <li><bold>Prowadzący:</bold> - </li>
+                    <li><bold>Czas trwania:</bold> 90 minut</li>
+                    <li><bold>Dzień tygodnia:</bold> Sobota</li>
+                    <li><bold>Ilość zajęć:</bold> 2 razy w roku szkolnym</li>
                 </ul>
                 <h2>Wykłady</h2>
                 <ul>
