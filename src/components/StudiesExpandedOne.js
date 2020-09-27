@@ -15,8 +15,10 @@ const StudiesExpandedOne = () => {
                     Wykłady popularnonaukowe będą miłą odskocznią, od znojów codziennej szkolnej fizyki. Opierać się one będą głównie na zagadnieniach związanych z kosmosem i grawitacją. Nie wymagają one umiejętności matematycznych, ale pozwalają szeroko spojrzeć na omawiane zagadnienia oraz zrozumieć rys historyczny, który doprowadził do poszczególnych odkryć. 
                     <br></br>
                     <br></br>
-                    Dodatkowo zorganizowane będą wyjazdy na Uniwersytet Morski w Gdyni, gdzie młodzież będzie uczestniczyła zarówno w zajęciach teoretycznych prowadzonych przez pracowników tej uczelni jak i w zajęciach doświadczalnych. 
-
+                    Ponadto uczestnicy będą mieli wykłady z fizyki z <bold>dr Grzegorzem Gondek</bold>, które prowadzone będą po angielsku. Wykłady będą dotyczyły zagadnień dobrze znanych młodzieży, a ich celem będzie zaznajomienie się i oswojenie z językiem angielskim wykorzystywanym w fizyce.
+                    <br></br>
+                    <br></br>
+                    Dodatkowo zorganizowane będą wyjazdy na Uniwersytet Morski w Gdyni, gdzie młodzież będzie uczestniczyła zarówno w zajęciach teoretycznych prowadzonych przez pracowników tej uczelni jak i w zajęciach doświadczalnych.
                 </p>
                 <div className="expanded__cross">
                         <span className='cross__cross1'></span>
